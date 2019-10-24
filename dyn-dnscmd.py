@@ -1,7 +1,7 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # Command line tool for editing external DNS records via DynDNS API.
-# Author: Sergey Polyakov <sergey.polyakov@nordigy.ru>
+# Author: Sergey Polyakov <seralepo@yandex.ru>
 # Documentation: https://help.dyn.com/understanding-works-api/
 #
 
